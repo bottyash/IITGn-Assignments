@@ -132,9 +132,9 @@ Generated plots (saved as PNG):
 
 ```
 D33_PM_SVM_KNN_CS/
-├── D33_PM_SVM_KNN_CS.ipynb         # Main notebook
-├── README_PM.md                    # This file
-├── D33_PM_SVM_KNN_CS_Report.docx   # Full written report
+├── Day-33-PM.ipynb         # Main notebook
+├── README.md                    # This file
+├── Day-33-PM.docx   # Full written report
 └── *.png                           # Generated visualisations
 ```
 
