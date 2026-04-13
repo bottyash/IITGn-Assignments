@@ -138,8 +138,8 @@ SBERT   [sentence encoder] ─────────────────�
 ## Folder Structure
 
 ```
-week07/
-└── tuesday/
+Week07/
+└── Day38/
     ├── README.md                          ← you are here
     ├── Week07_Tuesday_Word2Vec.ipynb      ← main notebook
     ├── word2vec_polysemy_pca.png
