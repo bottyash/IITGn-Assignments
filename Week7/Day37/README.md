@@ -117,8 +117,8 @@ IDF('embroidery') ≈ 4.XX  (appears in <5% of docs, mostly Clothing)
 ## Folder Structure
 
 ```
-week07/
-└── monday/
+Week07/
+└── Day37/
     ├── README.md                       ← you are here
     ├── Week07_Monday_TF_IDF.ipynb      ← main notebook
     ├── top5_query_results.png
