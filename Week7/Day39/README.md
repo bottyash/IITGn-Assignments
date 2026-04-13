@@ -133,8 +133,8 @@ One review → simultaneously positive AND negative. This is why aspect-level ma
 ## Folder Structure
 
 ```
-week07/wednesday/
-├── week07_wednesday_nlp_patterns.ipynb   ← Main notebook
+Week07/Day39/
+├── week07-Day39.ipynb   ← Main notebook
 ├── README.md                             ← This file
 ├── pattern_accuracy_comparison.png       ← Figure 1
 ├── aspect_difficulty.png                 ← Figure 2
